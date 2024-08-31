@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hariharan</h1>
-<h3 align="center">A passionate fullstack developer from India</h3>
+<h3 align="center">A passionate FULL STACK DEVELOPER</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hariharan-0506&label=Profile%20views&color=0e75b6&style=flat" alt="hariharan-0506" /> </p>
 
